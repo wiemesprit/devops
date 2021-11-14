@@ -57,3 +57,4 @@ public class MissionServiceImpl  implements IMissionService{
 		return (List<Mission>) missionRepository.findAll();
 	}
 }
+
